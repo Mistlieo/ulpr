@@ -1,0 +1,10 @@
+D:\OP\lab_10_2\lab_10_2\bin\Debug\lab_10_2.exe.config
+D:\OP\lab_10_2\lab_10_2\bin\Debug\lab_10_2.exe
+D:\OP\lab_10_2\lab_10_2\bin\Debug\lab_10_2.pdb
+D:\OP\lab_10_2\lab_10_2\obj\Debug\lab_10_2.csproj.AssemblyReference.cache
+D:\OP\lab_10_2\lab_10_2\obj\Debug\lab_10_2.Form1.resources
+D:\OP\lab_10_2\lab_10_2\obj\Debug\lab_10_2.Properties.Resources.resources
+D:\OP\lab_10_2\lab_10_2\obj\Debug\lab_10_2.csproj.GenerateResource.cache
+D:\OP\lab_10_2\lab_10_2\obj\Debug\lab_10_2.csproj.CoreCompileInputs.cache
+D:\OP\lab_10_2\lab_10_2\obj\Debug\lab_10_2.exe
+D:\OP\lab_10_2\lab_10_2\obj\Debug\lab_10_2.pdb
